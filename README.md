@@ -12,7 +12,6 @@ A simple app to manage your goals with Red Mode UI.
 - Store data in browser (Local Storage)  
 
 ## Installation & Run
-`bash
 npm install
 npm run dev
 =======
