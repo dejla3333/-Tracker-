@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Goal Tracker 
 
@@ -14,3 +15,6 @@ A simple app to manage your goals with Red Mode UI.
 `bash
 npm install
 npm run dev
+=======
+# -Tracker-
+>>>>>>> 3d1305fc6680d8fcc7fcab6d98a1fd24d12ffd8e
